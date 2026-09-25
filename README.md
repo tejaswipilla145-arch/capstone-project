@@ -20,6 +20,7 @@ I inserted the cleaned data into the database.
 
 I ran SQL queries to practice: SELECT with WHERE, ORDER BY, LIMIT, DISTINCT, BETWEEN, and a JOIN between books and categories.
 
-I read some query results back into pandas DataFrames with pd.read_sql.
+I read some query results back into pandas DataFrames with pd.read\_sql.
 
 I also used pd.merge on my DataFrames to reproduce the join query and checked that both SQL and pandas gave the same result.
+
