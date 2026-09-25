@@ -504,7 +504,7 @@ Go to the support assistant folder:
 
 ```bash
 
-cd analytics/support\_assistant
+cd support\_assistant
 
 ```
 
@@ -740,7 +740,7 @@ analytics/02\_modeling.ipynb
 
 ```bash
 
-cd analytics/support\_assistant
+cd support\_assistant
 
 python ingest.py
 
